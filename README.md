@@ -1,6 +1,7 @@
 # ParallelTestnet Token Minting Bot
 
-**注意: テストネットは既に終了しています。**
+![image](https://github.com/yblockcha1n/parallel-mint-bot/assets/144770048/00f9e4cf-6bd5-4f66-91be-ae5510c9649b)
+
 
 ## 概要
 
