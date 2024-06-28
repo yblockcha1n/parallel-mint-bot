@@ -2,7 +2,7 @@ import time
 import json
 from web3 import Web3
 
-with open('config.json') as f:
+with open('settings/config.json') as f:
    config = json.load(f)
 
 infura_url = config['infura_url']
